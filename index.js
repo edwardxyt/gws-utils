@@ -10,7 +10,7 @@ const log = console.log;
 const init = require('./lib/getModules.js');
 // const cwd = process.cwd();
 // const rootPath = path.resolve(__dirname, "../");
-let gwsUtils = init.getModules(path.join(__dirname, './lib'),'.js')
+let gwsUtils = init.getModules(path.join(__dirname, './lib'),'.js');
 
 // node server
 exports = module.exports = gwsUtils;
