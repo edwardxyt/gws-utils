@@ -1,6 +1,6 @@
 {
   "name": "@edwardxyt/gws-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "node javascripts utils",
   "main": "index.js",
   "directories": {
