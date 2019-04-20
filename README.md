@@ -44,7 +44,6 @@ let myModules = getModules(path.join(__dirname, './lib'),'.js');
 ```
 const {arraySort} = require('@edwardxyt/gws-utils');
 
-// 获取lib目录下所有.js的模块。
 arraySort.bubbleSort([1,2,3]).then(data => {
     log(data)
 })
