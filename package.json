@@ -1,0 +1,22 @@
+{
+  "name": "gws-utils",
+  "version": "1.0.0",
+  "description": "node javascripts utils",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardxyt/gws-utils.git"
+  },
+  "author": "edwardxyt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardxyt/gws-utils/issues"
+  },
+  "homepage": "https://github.com/edwardxyt/gws-utils#readme"
+}
