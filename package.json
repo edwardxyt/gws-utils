@@ -1,5 +1,5 @@
 {
-  "name": "gws-utils",
+  "name": "@edwardxyt/gws-utils",
   "version": "1.0.0",
   "description": "node javascripts utils",
   "main": "index.js",
